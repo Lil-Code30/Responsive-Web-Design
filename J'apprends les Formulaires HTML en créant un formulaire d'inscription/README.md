@@ -1,5 +1,5 @@
-# 🎨Marqueurs Colorés
-J'apprends les Couleurs en CSS en créant un ensemble de Marqueurs Colorés
+# 📜Formulaire d'inscription
+J'apprends les Formulaires HTML en créant un formulaire d'inscription
 
 ## 📺 Résultat
 <div align="center">
@@ -8,6 +8,6 @@ J'apprends les Couleurs en CSS en créant un ensemble de Marqueurs Colorés
 </div>
 
 ## 🔗 Ressources  
-- [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-colors-by-building-a-set-of-colored-markers/step-1)
-- [Tutoriel YouTube](https://youtu.be/gJT9VX9ghBQ?si=N1lFYW-HdYJlXIGp)
+- [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-forms-by-building-a-registration-form/step-1)
+- [Tutoriel YouTube](https://youtu.be/PIeQ39ABnY0?si=mYCrE7KkHBB7naQu)
 
