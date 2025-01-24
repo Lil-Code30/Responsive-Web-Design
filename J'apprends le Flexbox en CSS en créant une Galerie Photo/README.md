@@ -1,4 +1,4 @@
-# 🎴Galerie Photo
+# 🖼️Galerie Photo
 J'apprends le Flexbox en CSS en créant une Galerie Photo
 
 ## 📺 Résultat
