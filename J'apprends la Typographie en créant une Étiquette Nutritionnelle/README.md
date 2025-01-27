@@ -1,4 +1,4 @@
-# 🖼📑Étiquette Nutritionnelle
+# 📑Étiquette Nutritionnelle
 J'apprends la Typographie en créant une Étiquette Nutritionnelle
 
 ## 📺 Résultat
