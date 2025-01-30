@@ -13,5 +13,5 @@ J'apprends les Variables CSS en créant une Silhouette de Ville
 
 ## 🔗 Ressources  
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-variables-by-building-a-city-skyline/step-1)
-- [Tutoriel YouTube]()
+- [Tutoriel YouTube](https://youtu.be/TzKgGCk3rDM)
 
