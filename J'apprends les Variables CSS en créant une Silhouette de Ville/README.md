@@ -3,11 +3,11 @@ J'apprends les Variables CSS en créant une Silhouette de Ville
 
 ## 📺 Résultat
 <div align="center">
-  <img src="Output1.png" alt="Aperçu du projet" width="80%">
+  <img src="Output01.png" alt="Aperçu du projet" width="80%">
   <p><em> Aperçu du projet</em></p>
 </div>
 <div align="center">
-  <img src="Output2.png" alt="Aperçu du projet" width="80%">
+  <img src="Output02.png" alt="Aperçu du projet" width="80%">
   <p><em> Aperçu du projet</em></p>
 </div>
 
