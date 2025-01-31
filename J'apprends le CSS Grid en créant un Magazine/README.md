@@ -9,5 +9,5 @@ J'apprends le CSS Grid en créant un Magazine
 
 ## 🔗 Ressources  
 - [FreeCodeCamp - Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1)
-- [Tutoriel YouTube]()
+- [Tutoriel YouTube](https://youtu.be/jwEiye4LZYE)
 
